@@ -44,10 +44,12 @@
 
 5. Compare the trend of house prices with earnings.
    The salary earnings increases from 2001 to 2015. It doesn't have a dip drop between 2008 and 2009.
+   Over past 15 years, house price index increases 71% versus monthly earning increases 38%
 
 6. Did people spend more of their earnings in 2014 than they did in 2001?
    Comparing consumer index with monthly earnings from 2001 to 2014, monthly earnings increases 38% versus
-   consumer index which increases 23.37%. Therefore, people spend less of their earning in 2014 than they did in 2001.
+   consumer index which increases 23.37%. Therefore, people spend less of their earning to buy stuffs 
+   in 2014 than they did in 2001. But they have to spend much more earning to buy a house
 
 7. There were several economic crises in the world in the last 40 years, including these four: Black Monday (1987), 
    Recession (early 1990s), dot com bubble (2000 - 2002), Financial crisis (2007 - 2009). Show the effect of these crises on:
